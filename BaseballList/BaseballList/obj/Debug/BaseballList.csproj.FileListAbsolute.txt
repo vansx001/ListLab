@@ -1,0 +1,5 @@
+C:\Users\Sheng\Desktop\BaseballList\BaseballList\bin\Debug\BaseballList.exe.config
+C:\Users\Sheng\Desktop\BaseballList\BaseballList\bin\Debug\BaseballList.exe
+C:\Users\Sheng\Desktop\BaseballList\BaseballList\bin\Debug\BaseballList.pdb
+C:\Users\Sheng\Desktop\BaseballList\BaseballList\obj\Debug\BaseballList.exe
+C:\Users\Sheng\Desktop\BaseballList\BaseballList\obj\Debug\BaseballList.pdb
