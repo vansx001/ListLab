@@ -6,20 +6,32 @@ using System.Threading.Tasks;
 
 namespace BaseballList
 {
+    
     class BaseballList
     {
-        List<string> baseballStatsName = new List<string>() { "Games", "At Bats", "Runs", "Hits", "Total Bases", "Doubles", "Triples" };
-        List<string> baseballStats = new List<string>() { "111", "383", "54", "83", "184", "21", "1" };
+        List<string> statName;
+        List<double> stats;
 
-        public void RunBaseballStat()
+        public BaseballList()
         {
-            Console.WriteLine("Milwaukee Brewers - Chris Carter - #33 Baseball Stats\n");
-            for (int i = 0; i < baseballStatsName.Count; i++)
+            statName = new List<string>() { "Games", "At Bats", "Runs", "Hits", "Total Bases", "Doubles", "Triples" };
+            stats = new List<double>();
+        }
+        public void UserAddBaseballStat()
+        {
+            for (int i = 0; i < statName.Count; i++)
             {
-
-                Console.WriteLine(baseballStatsName[i] + ": " + baseballStats[i]);
+                Console.WriteLine("Please enter stats for " + statName[i] + ":");
+                stats.Add(Convert.ToDouble(Console.ReadLine()));
             }
-                Console.ReadLine();
+        }
+        public void PrintList()
+        {
+            for (int i = 0; i < statName.Count; i++)
+            {
+                Console.WriteLine("\n" + statName[i] + ": " + stats[i]);
+            }
+            Console.ReadLine();
         }
     }
 }

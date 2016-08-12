@@ -11,7 +11,8 @@ namespace BaseballList
         static void Main(string[] args)
         {
             BaseballList baseballList = new BaseballList();
-            baseballList.RunBaseballStat();
+            baseballList.UserAddBaseballStat();
+            baseballList.PrintList();
         }
     }
 }
