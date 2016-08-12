@@ -29,6 +29,7 @@ namespace BaseballList
         {
             for (int i = 0; i < statName.Count; i++)
             {
+
                 Console.WriteLine("\n" + statName[i] + ": " + stats[i]);
             }
             Console.ReadLine();
