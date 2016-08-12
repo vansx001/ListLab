@@ -13,11 +13,13 @@ namespace BaseballList
 
         public void RunBaseballStat()
         {
-            var statsNameAndStats = baseballStatsName.Zip(baseballStats, (first, second) => first + ": " + second);
-            foreach (var item in statsNameAndStats)
+            Console.WriteLine("Milwaukee Brewers - Chris Carter - #33 Baseball Stats\n");
+            for (int i = 0; i < baseballStatsName.Count; i++)
+            {
 
-            Console.WriteLine(item);
-            Console.ReadLine();
+                Console.WriteLine(baseballStatsName[i] + ": " + baseballStats[i]);
+            }
+                Console.ReadLine();
         }
     }
 }

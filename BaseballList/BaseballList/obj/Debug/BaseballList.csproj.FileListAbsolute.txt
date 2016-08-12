@@ -3,3 +3,9 @@ C:\Users\Sheng\Desktop\BaseballList\BaseballList\bin\Debug\BaseballList.exe
 C:\Users\Sheng\Desktop\BaseballList\BaseballList\bin\Debug\BaseballList.pdb
 C:\Users\Sheng\Desktop\BaseballList\BaseballList\obj\Debug\BaseballList.exe
 C:\Users\Sheng\Desktop\BaseballList\BaseballList\obj\Debug\BaseballList.pdb
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\bin\Debug\BaseballList.exe.config
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\obj\Debug\BaseballList.exe
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\obj\Debug\BaseballList.pdb
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\bin\Debug\BaseballList.exe
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\bin\Debug\BaseballList.pdb
+C:\Users\Sheng\Documents\Sheng\GitHub\vansx001.ListLab\BaseballList\BaseballList\obj\Debug\BaseballList.csprojResolveAssemblyReference.cache
